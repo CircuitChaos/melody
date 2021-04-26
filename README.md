@@ -2,9 +2,7 @@
 
 See it on YouTube: https://youtu.be/wGciPp5-Lc4
 
-Article about it is to be published in Polish magazine „Elektronika dla Wszystkich” (Electronics For Everyone). This repository is here so all project files (schematics, PCB board and firmware) are available to readers.
-
-This file will be updated with an issue number as soon as it's published (if editor-in-chief decides to publish it).
+Article about it has been published in Polish magazine „Elektronika dla Wszystkich” (Electronics For Everyone) 05/2021. This repository is here so all project files (schematics, PCB board and firmware) are available to readers.
 
 ## License
 
